@@ -1,0 +1,103 @@
+,Country/Region,SNP_rating,SNP_Outlook,SNP_Date,Fitch_rating,Fitch_Outlook,Fitch_Date,moody_rating,Moody_Outlook,Moody_Date
+0,Angola, CCC+,Stable,26-03-2020,B-,Stable,15-07-2022,Caa1,Stable,08-09-2020
+1,Argentina, CCC+,Stable,07-09-2020,CCC-,No outlook at level[98],26-10-2022,Ca,Negative,03-04-2020
+2,Australia, AAA,Stable,06-06-2021,AAA,Stable,13-10-2021,Aaa,Stable,17-08-2016
+3,Austria, AA+,Stable,29-01-2013,AA+,Stable,25-08-2023,Aa1,Stable,24-06-2016
+4,Azerbaijan, BB+,Stable,26-01-2018,BB+,Positive,21-10-2022,Ba2,Positive,06-04-2021
+5,Bahrain, B+,Stable,26-03-2020,B+,Stable,14-08-2020,B2,Negative,21-04-2021
+6,Bangladesh, BB-,Stable,05-04-2010,BB-,Stable,11-01-2018,Ba3,Stable,17-04-2017
+7,Barbados, B-,Stable,11-12-2019,B,Positive,17-10-2023,Caa1,Stable,02-07-2019
+8,Belarus, CCC,Stable,05-03-2022,NR,No outlook at level[98],06-10-2023,B3,Stable,25-04-2019
+9,Belgium, AA,Stable,04-04-2018,AA-,Negative,10-03-2023,Aa3,Stable,03-03-2017
+10,Benin, B+,Positive,20-10-2023,B+,Stable,29-10-2021,B1,Stable,09-03-2021
+11,Bolivia, B-,Negative,19-04-2023,B-,Negative,14-03-2023,B2,Stable,22-09-2020
+12,Brazil, BB,Positive,03-08-2023,BB,Stable,19-12-2023,Ba2,Stable,09-04-2018
+13,Bulgaria, BBB,Stable,29-05-2020,BBB,Positive,19-02-2021,Baa1,Stable,10-10-2020
+14,Cameroon, B-,Stable,10-04-2020,B,Negative,17-11-2023,B2,Stable,05-08-2016
+15,Canada, AAA,Stable,29-07-2002,AA+,Stable,24-06-2020,Aaa,Stable,02-11-2016
+16,Chile, A,Stable,24-03-2021,A-,Stable,15-10-2020,A1,Negative,25-08-2020
+17,China, A+,Stable,21-09-2017,A+,Stable,05-11-2007,A1,Negative,05-12-2023
+18,Colombia, BB+,Stable,19-05-2021,BB+,Stable,01-07-2021,Baa2,Negative,03-12-2020
+19,Costa Rica, BB-,Stable,02-03-2023,BB-,Stable,02-03-2023,B2,Negative,02-06-2020
+20,Croatia, BBB+,Positive,15-09-2023,BBB+,Positive,06-10-2023,Baa2,Positive,10-11-2023
+21,Cyprus, BBB-,Stable,14-09-2018,BBB,Positive,08-12-2023,Ba2,Positive,20-09-2019
+22,Czech Republic, AA-,Stable,24-08-2011,AA-,Negative,06-05-2022,Aa3,Negative,04-10-2019
+23,Denmark, AAA,Stable,27-02-2001,AAA,Stable,10-11-2003,Aaa,Stable,24-03-2017
+24,Dominican Republic, BB-,Stable,08-12-2021,BB-,Positive,29-11-2023,Ba3,Stable,20-07-2017
+25,Ecuador, B-,Stable,01-09-2020,CCC+,No outlook at level[98],16-08-2023,Caa3,Stable,26-02-2021
+26,Egypt, B,Negative,21-04-2023,B-,Stable,03-11-2023,B3,Stable,07-02-2023
+27,El Salvador, B-,Stable,28-12-2018,CCC+,No outlook at level[98],05-05-2023,Caa2,Negative,04-05-2022
+28,Estonia, AA-,Stable,21-08-2020,A+,Stable,28-07-2023,A1,Stable,21-07-2017
+29,Ethiopia, CCC+,Negative,25-09-2021,RD,No outlook at level[98],27-12-2023,Caa1,Negative,17-05-2021
+30,Finland, AA+,Stable,16-09-2016,AA+,Stable,24-01-2020,Aa1,Stable,03-06-2016
+31,France, AA,Stable,21-10-2016,AA-,Stable,28-04-2023,Aa2,Stable,21-02-2020
+32,Georgia, BB,Negative,26-02-2021,BB,Positive,14-07-2023,Ba2,Stable,11-09-2017
+33,Germany, AAA,Stable,13-01-2012,AAA,Stable,10-08-1994,Aaa,Stable,24-02-2017
+34,Ghana, B-,Stable,11-09-2020,RD,No outlook at level[98],21-02-2023,B3,Stable,17-04-2020
+35,Greece, BBB-,Stable,20-10-2023,BBB-,Stable,01-12-2023,1Ba1,Stable,15-09-2023
+36,Guatemala, BB-,Stable,18-10-2017,BB,Stable,16-02-2023,Ba1,Negative,10-11-2020
+37,Honduras, BB-,Stable,18-07-2017,B+,Stable,03-09-2020,B1,Stable,22-09-2017
+38,Hong Kong, AA+,Stable,22-09-2017,AA-,Stable,20-04-2020,Aa3,Negative,06-12-2023
+39,Hungary, BBB,Stable,28-04-2020,BBB,Negative,20-01-2023,Baa2,Stable,25-09-2021
+40,Iceland, A+,Stable,10-11-2023,A,Stable,18-03-2022,A2,Stable,08-11-2019
+41,India, BBB-,Stable,26-09-2014,BBB-,Stable,10-06-2022,Baa3,Stable,05-10-2021
+42,Indonesia, BBB,Stable,27-04-2022,BBB,Stable,22-10-2021,Baa2,Stable,10-02-2022
+43,Iraq, B-,Stable,03-09-2015,B-,Stable,24-03-2021,Caa1,Stable,03-08-2017
+44,Ireland, AA,Stable,25-10-2023,AA-,Positive,14-07-2023,Aa3,Stable,21-04-2023
+45,Israel, AA-,Negative,25-10-2023,A+,Negative,17-10-2023,A1,Positive,22-09-2019
+46,Italy, BBB,Stable,06-11-2020,BBB,Stable,03-12-2021,Baa3,Stable,19-10-2018
+47,Jamaica, BB-,Stable,13-09-2023,B+,Positive,07-03-2023,B2,Stable,11-12-2019
+48,Japan, A+,Stable,09-06-2020,A,Stable,25-03-2022,A1,Stable,30-08-2016
+49,Jordan, B+,Stable,20-10-2017,BB-,Stable,17-08-2022,B1,Stable,14-11-2016
+50,Kazakhstan, BBB-,Stable,08-09-2017,BBB,Stable,19-02-2021,Baa3,Positive,22-08-2019
+51,Kenya, B,Stable,05-03-2021,B,Negative,20-07-2023,B2,Negative,07-05-2020
+52,Kuwait, AA-,Negative,17-07-2020,AA-,Stable,15-09-2023,A1,Stable,22-09-2020
+53,Latvia, A+,Stable,21-02-2020,A-,Positive,28-07-2020,A3,Stable,14-07-2017
+54,Lebanon, SD,N/A,11-03-2020,RD,No outlook at level[98],18-03-2020,C,No outlook at level,27-07-2020
+55,Lithuania, A+,Stable,21-02-2020,A,Stable,31-01-2020,A2,Stable,12-02-2021
+56,Luxembourg, AAA,Stable,14-01-2013,AAA,Stable,10-08-1994,Aaa,Stable,03-03-2017
+57,Malaysia, A-,Negative,26-06-2020,BBB+,Stable,04-12-2020,A3,Stable,01-11-2016
+58,Malta, A-,Stable,13-03-2020,A+,Stable,17-04-2020,A2,Stable,20-07-2019
+59,Mexico, BBB,Stable,06-07-2022,BBB-,Stable,15-04-2020,Baa1,Negative,17-04-2020
+60,Mongolia, B,Stable,09-11-2018,B,Stable,04-07-2019,B3,Stable,16-03-2021
+61,Morocco, BBB-,Stable,04-10-2019,BB+,Stable,28-04-2023,Ba1,Negative,04-02-2021
+62,Mozambique, CCC+,Stable,22-11-2019,CCC+,No outlook at level[98],26-08-2022,Caa2,Stable,20-09-2019
+63,Netherlands, AAA,Stable,20-11-2015,AAA,Stable,18-08-2023,Aaa,Stable,31-03-2017
+64,New Zealand, AA+,Stable,22-02-2021,AA+,Stable,29-08-2023,Aaa,Stable,24-03-2017
+65,Nicaragua, B+,Stable,11-02-2016,B-,Positive,05-06-2023,B3,Stable,14-02-2020
+66,Nigeria,B-,Stable,26-03-2020,B-,Stable,11-11-2022,B2,Negative,15-04-2020
+67,Norway, AAA,Stable,06-05-2022,AAA,Stable,16-06-2023,Aaa,Stable,04-03-2016
+68,Oman, BB,Positive,16-10-2020,BB+,Stable,25-09-2023,a3,Negative,23-06-2020
+69,Pakistan, CCC+,Stable,22-12-2022,CCC,No outlook at level[98],10-07-2023,Caa3,Stable,03-03-2023
+70,Panama, BBB,Stable,24-11-2020,BBB-,Negative,29-09-2023,Baa2,Stable,21-03-2021
+71,Paraguay, BB,Stable,15-06-2016,BB+,Stable,06-12-2019,Ba1,Stable,21-06-2016
+72,Peru, BBB+,Negative,31-01-2023,BBB,Negative,20-10-2022,Baa1,Negative,31-01-2023
+73,Philippines, BBB+,Stable,30-04-2019,BBB,Stable,22-05-2023,Baa2,Stable,27-06-2017
+74,Poland, A-,Stable,13-10-2018,A-,Stable,10-11-2023,A2,Stable,12-05-2017
+75,Portugal, BBB+,Stable,09-09-2022,A-,Stable,29-09-2023,A3,Stable,17-11-2023
+76,Qatar, AA-,Stable,07-12-2018,AA-,Positive,28-03-2023,Aa3,Stable,13-07-2018
+77,Romania, BBB-,Stable,16-04-2021,BBB-,Stable,24-03-2023,Baa3,Stable,24-04-2020
+78,Russia, SD,N/A,08-04-2022,NR,No outlook at level[98],25-03-2022,Ca,Negative,06-03-2022
+79,Rwanda, B+,Stable,09-08-2019,B+,Stable,06-10-2023,B2,Negative,12-10-2020
+80,Saudi Arabia, A+,Positive,25-03-2022,A+,Stable,05-04-2023,A1,Stable,08-06-2022
+81,Serbia, BB+,Stable,01-05-2020,BB+,Stable,27-09-2019,Ba2,Stable,12-03-2021
+82,Singapore, AAA,Stable,17-05-2022,AAA,Stable,14-05-2003,Aaa,Stable,08-12-2016
+83,Slovakia, A+,Stable,22-01-2021,A-,Stable,08-12-2023,A2,Stable,27-09-2019
+84,Slovenia, AA-,Stable,17-06-2019,A,Stable,19-07-2019,A3,Stable,02-10-2020
+85,South Africa, BB-,Stable,21-05-2021,BB-,Stable,15-12-2021,Ba2,Stable,01-04-2022
+86,South Korea, AA,Stable,07-08-2016,AA-,Stable,07-09-2012,Aa2,Stable,18-12-2015
+87,Spain, A,Negative,18-09-2020,A-,Stable,20-01-2018,Baa1,Stable,13-04-2018
+88,Sri Lanka, SD,N/A,25-04-2021,RD,No outlook at level[98],19-05-2022,Caa1,Stable,28-09-2020
+89,Suriname, SD,N/A,16-07-2020,NR,No outlook at level[98],25-01-2022,Caa3,Negative,07-07-2020
+90,Sweden, AAA,Stable,16-02-2004,AAA,Stable,08-03-2004,Aaa,Stable,27-03-2020
+91,Switzerland, AAA,Stable,26-06-1989,AAA,Stable,10-08-1994,Aaa,Stable,27-11-2020
+92,Taiwan, AA+,Stable,29-04-2022,AA,Stable,10-09-2021,Aa3,Positive,24-02-2021
+93,Thailand, BBB+,Stable,13-04-2020,BBB+,Stable,17-03-2020,Baa1,Stable,21-04-2020
+94,Turkey, B,Positive,30-09-2023,B,Stable,08-09-2023,B3,Stable,12-08-2022
+95,Uganda, B,Stable,17-01-2014,B+,Negative,24-03-2023,B2,Stable,18-11-2016
+96,Ukraine, CCC+/C,Negative,07-04-2023,CC,No outlook at level[98],17-08-2022,Caa2,Negative,04-03-2022
+97,United Kingdom, AA,Stable,21-04-2023,AA-,Negative,05-10-2022,Aa3,Stable,21-10-2022
+98,United States, AA+,Negative,10-06-2013,AA+,Stable,01-08-2023,Aaa,Negative,10-11-2023
+99,Uruguay, BBB+,Stable,07-06-2023,BBB,Stable,07-06-2023,Baa2,Stable,13-07-2017
+100,Vietnam, BB+,Positive,26-05-2022,BB+,Stable,08-12-2023,Ba3,Positive,17-03-2021
+101,Zambia, SD,N/A,20-10-2020,RD,No outlook at level[98],18-11-2020,Ca,Stable,03-04-2020
