@@ -4,12 +4,12 @@
 ## Web Scraped Wiki Tables to scrape using Beautfulsoup 
 Scrpaed the following data from wikipedia
 
-Data on Global Credit Ratings
-IMF Global Projections oF GDP data.
-Global GDP-PPP Projections data. 
-Global Soveriegn Bond data.
-Data Cleaning and Preprocessing
-Generated DASHBOARD in Power BI
+1. Data on Global Credit Ratings
+2. IMF Global Projections oF GDP data.
+3. Global GDP-PPP Projections data. 
+4. Global Soveriegn Bond data.
+5. Data Cleaning and Preprocessing
+6. Generated DASHBOARD in Power BI
 
 ![DASH BOARD](<BOND RATINGPNG.PNG>)
 
